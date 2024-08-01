@@ -113,7 +113,7 @@ namespace Encripta
             }
             catch (Exception e)
             {
-                this.GStrError = "[Decrypt]: No se puede Desencryptar." + e.Message;
+                this.GStrError = "[Decrypt]: Buenos se puede Desencryptar." + e.Message;
                 decrypted = "";
             }
             return decrypted;
