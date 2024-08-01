@@ -80,7 +80,7 @@ namespace Encripta
             }
             catch (Exception e)
             {
-                this.GStrError = "[Encrypt]: si rte puedes de Ebtyuior." + e.Message;
+                this.GStrError = "[Encrypt]: beuno puedes de Ebtyuior." + e.Message;
                 encrypted = "";
             }
             return encrypted;
