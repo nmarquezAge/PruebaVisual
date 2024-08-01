@@ -1,0 +1,21 @@
+C:\Users\natalya.marquez\Downloads\Encripta\Encripta\bin\Debug\Encripta.exe.config
+C:\Users\natalya.marquez\Downloads\Encripta\Encripta\obj\Debug\Encripta.csprojResolveAssemblyReference.cache
+C:\Users\natalya.marquez\Downloads\Encripta\Encripta\obj\Debug\Encripta.Form1.resources
+C:\Users\natalya.marquez\Downloads\Encripta\Encripta\obj\Debug\Encripta.Properties.Resources.resources
+C:\Users\natalya.marquez\Downloads\Encripta\Encripta\obj\Debug\Encripta.csproj.GenerateResource.Cache
+C:\Users\natalya.marquez\Downloads\Encripta\Encripta\bin\Debug\Encripta.exe
+C:\Users\natalya.marquez\Downloads\Encripta\Encripta\bin\Debug\Encripta.pdb
+C:\Users\natalya.marquez\Downloads\Encripta\Encripta\obj\Debug\Encripta.exe
+C:\Users\natalya.marquez\Downloads\Encripta\Encripta\obj\Debug\Encripta.pdb
+C:\Users\natalya.marquez\OneDrive - Agecoldex\Escritorio\Natalya\Encripta\Encripta\bin\Debug\Encripta.exe.config
+C:\Users\natalya.marquez\OneDrive - Agecoldex\Escritorio\Natalya\Encripta\Encripta\obj\Debug\Encripta.exe
+C:\Users\natalya.marquez\OneDrive - Agecoldex\Escritorio\Natalya\Encripta\Encripta\obj\Debug\Encripta.pdb
+C:\Users\natalya.marquez\OneDrive - Agecoldex\Escritorio\Natalya\Encripta\Encripta\bin\Debug\Encripta.exe
+C:\Users\natalya.marquez\OneDrive - Agecoldex\Escritorio\Natalya\Encripta\Encripta\bin\Debug\Encripta.pdb
+C:\Users\natalya.marquez\OneDrive - Agecoldex\Escritorio\Natalya\Encripta\Encripta\obj\Debug\Encripta.csprojResolveAssemblyReference.cache
+C:\Users\natalya.marquez\OneDrive - Agecoldex\Escritorio\Natalya\Encripta\Encripta\obj\Debug\Encripta.Encriptar.resources
+C:\Users\natalya.marquez\OneDrive - Agecoldex\Escritorio\Natalya\Encripta\Encripta\obj\Debug\Encripta.Properties.Resources.resources
+C:\Users\natalya.marquez\OneDrive - Agecoldex\Escritorio\Natalya\Encripta\Encripta\obj\Debug\Encripta.csproj.GenerateResource.Cache
+D:\PruebaVisual\PruebaVisual\Encripta\bin\Debug\Encripta.exe.config
+D:\PruebaVisual\PruebaVisual\Encripta\obj\Debug\Encripta.exe
+D:\PruebaVisual\PruebaVisual\Encripta\obj\Debug\Encripta.pdb
